@@ -2,6 +2,26 @@
 
 Definitions for the [lualibs](https://ctan.org/pkg/lualibs) library.
 
+TeXLuaCats-Repository: https://github.com/TeXLuaCATS/Lualibs (upstream)
+
+LuaCats-Repository: https://github.com/LuaCATS/tex-lualibs (downstream)
+
+## About the documented project
+
+Additional Lua functions taken from the l-* and util-* files of ConTeXt.
+
+The aim of this package is to provide an extended standard library, to
+be used by various LuaTeX packages. The code is specific to LuaTeX and
+depends on LuaTeX functions and modules not available in regular lua.
+The code is derived from ConTeXt librarie [^manual]
+
+[^manual]: hhttp://mirrors.ctan.org/macros/luatex/generic/lualibs/lualibs.pdf
+
+* PDF-Manual: [lualibs.pdf](hhttp://mirrors.ctan.org/macros/luatex/generic/lualibs/lualibs.pdf)
+* Repository: [Github: latex3/lualibs](https://github.com/latex3/lualibs)
+* CTAN: [lualibs](https://www.ctan.org/pkg/lualibs)
+* LICENSE: [GPL-2.0](https://github.com/latex3/lualibs/blob/main/LICENSE)
+
 ## Reference
 
 * Context Lua Documents, July 8, 2023: [cld-mkiv.pdf](https://www.pragma-ade.nl/general/manuals/cld-mkiv.pdf)
